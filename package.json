@@ -18,6 +18,7 @@
     "qart": "^0.0.2",
     "qartjs": "^1.1.1",
     "vue": "^2.2.1",
+    "vue-progressbar": "^0.7.1",
     "vue-qart": "^2.0.0",
     "vue-router": "^2.2.0",
     "webpack-zepto": "^0.0.1"
